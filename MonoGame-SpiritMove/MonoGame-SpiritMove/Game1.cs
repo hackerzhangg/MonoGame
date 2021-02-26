@@ -33,7 +33,7 @@ namespace MonoGame_SpiritMove
             // TODO: use this.Content to load your game content here
             //No Game Box.png Yes Game Box
             _texture2D = Content.Load<Texture2D>("Game Box");
-            _position = new Vector2(0, 0);
+            _position = new Vector2(1, 0);
         }
 
         protected override void Update(GameTime gameTime)
