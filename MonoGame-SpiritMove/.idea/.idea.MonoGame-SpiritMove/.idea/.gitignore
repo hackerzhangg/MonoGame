@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.MonoGame-SpiritMove.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\MonoGameProject\MonoGameProject2\MonoGameProject\MonoGame\MonoGame-SpiritMove\.idea\.idea.MonoGame-SpiritMove\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
