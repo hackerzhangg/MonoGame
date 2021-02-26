@@ -12,6 +12,9 @@ namespace MonoGame_SpiritMove
         private Texture2D _texture2D;
         private Vector2 _position;
 
+        private Sprite _sprite1;
+        private Sprite _sprite2;
+
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
