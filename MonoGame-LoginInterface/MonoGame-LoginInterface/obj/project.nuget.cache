@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ip6j5xt4QMsAsSZv2ANAG2e4IYyAAYizTDOwV05KycK2nKE7dTm0NAlMn6taKfF81CriRKTlauLJKqHkR9DAxw==",
+  "success": true,
+  "projectFilePath": "F:\\MonoGameProject\\MonoGameProject2\\MonoGameProject\\MonoGame\\MonoGame-LoginInterface\\MonoGame-LoginInterface\\MonoGame-LoginInterface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zgp\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\zgp\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
